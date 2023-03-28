@@ -231,6 +231,7 @@ local syntax = {
   CmpItemAbbr = { fg = M.fg },
   CmpItemAbbrMatch = { fg = '#A6E22E' },
   CmpItemMenu = { fg = M.violet },
+  CmpDoc = { link = 'Pmenu' },
   CmpItemKindVariable = { fg = M.blue },
   CmpItemKindFiled = { fg = M.magenta },
   CmpItemKindFunction = { fg = M.yellow },
