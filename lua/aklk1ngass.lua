@@ -248,7 +248,7 @@ local syntax = {
   RainBow6 = { fg = '#327A7A' },
   RainBow7 = { fg = '#3698DE' },
 
-  HighlightURL = { italic = true, reverse = true },
+  HighlightURL = { italic = true, bg = '#3f444a' },
 }
 
 local set_hl = function(tbl)
